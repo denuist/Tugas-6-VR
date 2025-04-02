@@ -1,0 +1,7 @@
+Model Information:
+* title:	Pencil Holder 
+* source:	https://www.fab.com/listings/643b73ca-3d80-48ad-a5ff-445bb9238a4c
+* author:	plaggy https://www.fab.com/sellers/plaggy
+
+Model License:
+* license type: https://creativecommons.org/licenses/by/4.0/
