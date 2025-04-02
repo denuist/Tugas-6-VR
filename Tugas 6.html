@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VR Ruang Kelas</title>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+</head>
+<body>
+    <a-scene>
+        <!-- Menyediakan asset GLTF dari GitHub -->
+        <a-assets>
+            <a-asset-item 
+                id="classroomModel" 
+                src="https://denuist.github.io/VR-Classroom2/scene.gltf">
+            </a-asset-item>
+        </a-assets>
+
+        <!-- Menampilkan model ruang kelas -->
+        <a-entity 
+            gltf-model="#classroomModel" 
+            position="0 0 0" 
+            scale="1 1 1">
+        </a-entity>
+
+        <!-- Kamera pengguna -->
+        <a-entity position="0 1.6 3">
+            <a-camera wasd-controls look-controls></a-camera>
+        </a-entity>
+
+    </a-scene>
+</body>
+</html>
