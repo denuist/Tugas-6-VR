@@ -1,0 +1,7 @@
+Model Information:
+* title:	Binder clip 
+* source:	https://www.fab.com/listings/61ae7938-c6dd-4411-9b50-dcd4d31e57ec
+* author:	Studio Lab https://www.fab.com/sellers/Studio-Lab
+
+Model License:
+* license type: https://creativecommons.org/licenses/by/4.0/
