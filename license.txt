@@ -1,0 +1,7 @@
+Model Information:
+* title:	Classroom
+* source:	https://sketchfab.com/3d-models/classroom-9e5c6ed5a303428fae9252f8fbbeaca8
+* author:	Outlaw Games™ (https://sketchfab.com/Outlaw_Games)
+
+Model License:
+* license type: Standard License (https://www.fab.com/eula)
