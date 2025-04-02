@@ -1,0 +1,7 @@
+Model Information:
+* title: Single Spiral Notepad 
+* source:	https://www.fab.com/listings/03927042-a6ce-49d7-bfd6-ef96e629660b
+* author:	Roy Sousa (https://www.fab.com/sellers/Roy%20Sousa)
+
+Model License:
+* license type: https://www.fab.com/eula
